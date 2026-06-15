@@ -225036,7 +225036,9 @@
         "tr_TR": "\"MENÜ\" tuşu",
         "zh_CN": "MENU键 (菜单)"
       },
-      "paraide": null
+      "paraide": {
+		"ru_RU": "Активирует в меню DRIVE вкладки \"Настройка бортовых систем\""  
+	  }
     },
     "CFG_DSH_BTEL_AMBIANCE_DEFAULT_000": {
       "parlname": "NUMBER OF AMBIANCE TO USE WHEN FUNCTION IS IN DEFA",
