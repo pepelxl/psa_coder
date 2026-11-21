@@ -3688,7 +3688,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -3738,7 +3755,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -12998,7 +13024,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -13048,7 +13091,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -22335,7 +22387,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -22385,7 +22454,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -32348,7 +32426,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -32398,7 +32493,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -42825,7 +42929,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -42875,7 +42996,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -54787,7 +54917,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -54837,7 +54984,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -63763,7 +63919,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -63813,7 +63986,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -72739,7 +72921,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -72789,7 +72988,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -81715,7 +81923,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -81765,7 +81990,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -90691,7 +90925,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -90741,7 +90992,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -99667,7 +99927,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -99717,7 +99994,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -108643,7 +108929,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -108693,7 +108996,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -117619,7 +117931,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -117669,7 +117998,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -125920,7 +126258,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -125970,7 +126325,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -134455,7 +134819,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -134505,7 +134886,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -143431,7 +143821,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -143481,7 +143888,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -152380,7 +152796,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -152430,7 +152863,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -161717,7 +162159,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -161767,7 +162226,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -172194,7 +172662,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -172244,7 +172729,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -182671,7 +183165,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -182721,7 +183232,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -195670,7 +196190,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -195720,7 +196257,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -205083,7 +205629,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -205133,7 +205696,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -214420,7 +214992,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -214470,7 +215059,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -224897,7 +225495,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -224947,7 +225562,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -234310,7 +234934,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -234360,7 +235001,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -244684,7 +245334,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -244734,7 +245401,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -254124,7 +254800,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -254174,7 +254867,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -262889,7 +263591,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -262939,7 +263658,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -271424,7 +272152,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -271474,7 +272219,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -280373,7 +281127,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -280423,7 +281194,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -289710,7 +290490,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -289760,7 +290557,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -300187,7 +300993,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -300237,7 +301060,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -310664,7 +311496,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -310714,7 +311563,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -322599,7 +323457,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -322649,7 +323524,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -332973,7 +333857,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -333023,7 +333924,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -343450,7 +344360,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -343500,7 +344427,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -355412,7 +356348,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -355462,7 +356415,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -364388,7 +365350,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -364438,7 +365417,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -373364,7 +374352,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -373414,7 +374419,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -383841,7 +384855,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -383891,7 +384922,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -394318,7 +395358,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -394368,7 +395425,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -406253,7 +407319,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -406303,7 +407386,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -415590,7 +416682,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -415640,7 +416749,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -426067,7 +427185,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -426117,7 +427252,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -436544,7 +437688,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -436594,7 +437755,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -448506,7 +449676,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -448556,7 +449743,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -457482,7 +458678,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -457532,7 +458745,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -466458,7 +467680,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -466508,7 +467747,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -475434,7 +476682,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -475484,7 +476749,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -484847,7 +486121,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -484897,7 +486188,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -495221,7 +496521,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -495271,7 +496588,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -505698,7 +507024,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -505748,7 +507091,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -517660,7 +519012,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -517710,7 +519079,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -527073,7 +528451,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -527123,7 +528518,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -536410,7 +537814,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -536460,7 +537881,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -546887,7 +548317,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -546937,7 +548384,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -557364,7 +558820,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -557414,7 +558887,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -569326,7 +570808,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -569376,7 +570875,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -578302,7 +579810,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -578352,7 +579877,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -587251,7 +588785,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -587301,7 +588852,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -596588,7 +598148,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -596638,7 +598215,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -605564,7 +607150,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -605614,7 +607217,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -614540,7 +616152,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -614590,7 +616219,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -623489,7 +625127,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -623539,7 +625194,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -632826,7 +634490,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -632876,7 +634557,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -641775,7 +643465,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -641825,7 +643532,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -651085,7 +652801,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -651135,7 +652868,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -660422,7 +662164,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -660472,7 +662231,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -670899,7 +672667,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -670949,7 +672734,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -680339,7 +682133,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -680389,7 +682200,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -689288,7 +691108,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -689338,7 +691175,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -698625,7 +700471,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -698675,7 +700538,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -709102,7 +710974,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -709152,7 +711041,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -718542,7 +720440,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -718592,7 +720507,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -727518,7 +729442,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -727568,7 +729509,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -736494,7 +738444,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -736544,7 +738511,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -745443,7 +747419,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -745493,7 +747486,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -755817,7 +757819,24 @@
           "addbitmask": 192,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "2"
+            },
+            "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "3"
+            }
+          }
         },
         "CFG_DSU_BTEL_NOT_DATE_000": {
           "absoluteoffset": 6,
@@ -755867,7 +757886,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
           "absoluteoffset": 5,
@@ -764872,40 +766900,19 @@
       "paraide": null
     },
     "CFG_DMA_BTEL_DAT_DG_ACV_PUSH_LED_000": {
-      "parlname": "Affichage de la touche tactile du contrôle automatique du volume 'ACV'",
+      "parlname": "Aider au changement de voie",
       "pardescription": "",
       "states": [
         "CFG_DMA_BTEL_DAT_DG_ACV_PUSH_LED_000_0",
         "CFG_DMA_BTEL_DAT_DG_ACV_PUSH_LED_000_1"
       ],
       "parlibmp": {
-        "ar_AE": "عرض الزر اللمسي \"ACV\" للتحكم الأوتوماتيكي في مستوى الصوت",
-        "cs_CZ": "Zobrazení dotykového tlačítka automatického řízení hlasitosti \"ACV\"",
-        "da_DK": "Visning af berøringsfølsom tast for automatisk regulering af lydstyrke \"ACV\"",
-        "de_DE": "Anzeige des Tastschalters der automatischen Lautstärkeregelung \"ACV\"",
-        "el_GR": "Εμφάνιση επαφής αφής αυτόματου έλεγχου έντασης \"ACV\"",
-        "en_GB": "Display of the automatic volume control \"ACV\" touch button",
-        "es_AR": "VisualizaciÃ³n de la tecla tÃ¡ctil del control automÃ¡tico de volumen \"ACV\"",
-        "es_ES": "Indicación de la tecla táctil del control automático del volumen \"ACV\"",
-        "fi_FI": "Automaattisen äänenvoimakkuuden säädön (ACV) kosketuspainikkeen näyttö",
-        "fr_FR": "Affichage de la touche tactile du contrôle automatique du volume \"ACV\"",
-        "hr_HR": "Prikaz taktilne tipke automatske kontrole glasnoće \"ACV\"",
-        "hu_HU": "\"ACV\" hangerő automatikus ellenőrzés érintőgomb kijelzése",
-        "it_IT": "Visualizzazione del tasto del controllo automatico del volume \"ACV\"",
-        "ja_JP": "自動音量制御 \"ACV\" タッチボタンの表示",
-        "ko_KR": "자동 볼륨 조절\"ACV\"터치 버튼 표시",
-        "nl_NL": "Weergave van de aanraaktoets voor de automatische regeling van het volume \"ACV\"",
-        "pl_PL": "Wyświetlanie przycisku dotykowego automatycznej regulacja głośności \"ACV\"",
-        "pt_BR": "Exibição da tecla tátil do controle automático do volume \"ACV\"",
-        "pt_PT": "Visualização da tecla táctil do controlo automático do volume \"ACV\"",
-        "ro_RO": "Afisarea tastei tactile a controlului automat al volumului \"ACV\"",
-        "ru_RU": "Вывод на экран сенсорной кнопки автоматического контроля объема \"ACV\"",
-        "sl_SI": "Prikaz virtualne tipke za samodejni nadzor glasnosti \"ACV\"",
-        "sv_SE": "Visning av pekknappen på den automatiska volymkontrollen \"ACV\"",
-        "tr_TR": "\"ACV\" ses şiddetinin otomatik kontrol dokunmatik tuşunun görüntülenmesi",
-        "zh_CN": "自动音量控制“ACV”触摸按键的显示"
+        "fr_FR": "Aider au changement de voie \"ACV\"",
+        "ru_RU": "Помощь в смене полосы движения \"ACV\""
       },
-      "paraide": null
+      "paraide": {
+        "ru_RU": "Функция не реализована"
+      }
     },
     "CFG_DMB_BTEL_DAT_DG_CHECK_PUSH_000": {
       "parlname": "Affichage de la touche tactile 'CHECK'",
@@ -765793,7 +767800,9 @@
         "tr_TR": "Engel teşhisi",
         "zh_CN": "障碍物探测"
       },
-      "paraide": null
+      "paraide": {
+        "ru_RU": "отображение графического представления системы датчиков парковки при активном состоянии системы"
+      }
     },
     "CFG_DR5_BTEL_SEAT_NB_000": {
       "parlname": "Détection de non-bouclage ceinture pour la troisième rangée de sièges",
@@ -766490,17 +768499,24 @@
     },
     "CFG_DSQ_BTEL_DATE_TIME_ZONE_000": {
       "parlname": "Fuseau horaire",
-      "pardescription": "",
+      "pardescription": "step = 15 min",
       "states": [],
       "parlibmp": {
         "ru_RU": "часовой пояс"
       },
-      "paraide": null
+      "paraide": {
+        "ru_RU": "шаг = 15 минутам\r\nUTC-12 = 0; UTC0 = 48; UTC+3 = 60 и т.д."
+      }
     },
     "CFG_DST_BTEL_DATE_FORMAT_INIT_000": {
       "parlname": "Mode d'affichage de la date",
       "pardescription": "",
-      "states": [],
+      "states": [
+        "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00",
+        "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01",
+        "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10",
+        "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11"
+      ],
       "parlibmp": {
         "ar_AE": "Mode d'affichage de la date",
         "cs_CZ": "Mode d'affichage de la date",
@@ -766522,7 +768538,7 @@
         "pt_BR": "Mode d'affichage de la date",
         "pt_PT": "Mode d'affichage de la date",
         "ro_RO": "Mode d'affichage de la date",
-        "ru_RU": "Mode d'affichage de la date",
+        "ru_RU": "формат даты после возврата ГУ к заводским значениям",
         "sl_SI": "Mode d'affichage de la date",
         "sv_SE": "Mode d'affichage de la date",
         "tr_TR": "Mode d'affichage de la date",
@@ -766549,7 +768565,7 @@
         "pt_BR": "D: jour\r\nM: mois\r\nY: annÃ©e",
         "pt_PT": "D: jour\r\nM: mois\r\nY: annÃ©e",
         "ro_RO": "D: jour\r\nM: mois\r\nY: annÃ©e",
-        "ru_RU": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "ru_RU": "D: день\r\nM: месяц\r\nY: год",
         "sl_SI": "D: jour\r\nM: mois\r\nY: annÃ©e",
         "sv_SE": "D: jour\r\nM: mois\r\nY: annÃ©e",
         "tr_TR": "D: jour\r\nM: mois\r\nY: annÃ©e",
@@ -766592,7 +768608,33 @@
         "tr_TR": "Tarih formatı",
         "zh_CN": "日期格式"
       },
-      "paraide": null
+      "paraide": {
+        "ar_AE": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "cs_CZ": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "da_DK": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "de_DE": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "el_GR": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "en_GB": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "es_AR": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "es_ES": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "fi_FI": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "fr_FR": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "hr_HR": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "hu_HU": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "it_IT": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "ja_JP": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "ko_KR": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "nl_NL": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "pl_PL": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "pt_BR": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "pt_PT": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "ro_RO": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "ru_RU": "D: день\r\nM: месяц\r\nY: год",
+        "sl_SI": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "sv_SE": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "tr_TR": "D: jour\r\nM: mois\r\nY: annÃ©e",
+        "zh_CN": "D: jour\r\nM: mois\r\nY: annÃ©e"
+      }
     },
     "CFG_DSV_BTEL_CONF_RVVI_000": {
       "parlname": "Régulation de vitesse véhicule adaptée",
@@ -766829,16 +768871,25 @@
     "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000": {
       "parlname": "synchronisation initiale de la date",
       "pardescription": "",
-      "states": [],
-      "parlibmp": null,
+      "states": [
+        "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0",
+        "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1"
+      ],
+      "parlibmp": {
+        "ru_RU": "Значение пункта синхронизации времени по GPS после возврата ГУ к заводским значениям"
+      },
       "paraide": null
     },
     "CFG_DTQ_BTEL_DATE_TIME_ZONE_INIT_000": {
       "parlname": "Initialisation du fuseau horaire",
-      "pardescription": "",
+      "pardescription": "step = 15 min",
       "states": [],
-      "parlibmp": null,
-      "paraide": null
+      "parlibmp": {
+        "ru_RU": "часовой пояс после возврата ГУ к заводским значениям"
+      },
+      "paraide": {
+        "ru_RU": "шаг = 15 минутам\r\nUTC-12 = 0; UTC0 = 48; UTC+3 = 60 и т.д."
+      }
     },
     "CFG_DTR_BTEL_ENGINEERING_MODE_000": {
       "parlname": "Mode de diagnostic actif",
@@ -770348,11 +772399,11 @@
         "CFG_EOA_BTEL_TYPE_PUSH_LIST_HDC_000_11"
       ],
       "parlibmp": {
-		"ru_RU": "Клавиша List"  
-	  },
+        "ru_RU": "Клавиша List"
+      },
       "paraide": {
-	    "ru_RU": "Определяет положение информации от кнопки в CAN шине\r\nНаличие второй функции кнопки после долгого нажатия"
-	  }
+        "ru_RU": "Определяет положение информации от кнопки в CAN шине\r\nНаличие второй функции кнопки после долгого нажатия"
+      }
     },
     "CFG_EOB_BTEL_TYPE_PUSH_SOURCE_HDC_000": {
       "parlname": "",
@@ -770364,11 +772415,11 @@
         "CFG_EOB_BTEL_TYPE_PUSH_SOURCE_HDC_000_11"
       ],
       "parlibmp": {
-		"ru_RU": "Клавиша Source"  
-	  },
+        "ru_RU": "Клавиша Source"
+      },
       "paraide": {
-	    "ru_RU": "Определяет положение информации от кнопки в CAN шине\r\nНаличие второй функции кнопки после долгого нажатия"
-	  }
+        "ru_RU": "Определяет положение информации от кнопки в CAN шине\r\nНаличие второй функции кнопки после долгого нажатия"
+      }
     },
     "CFG_EOC_BTEL_SOURCE_PHONE_HDC_000": {
       "parlname": "",
@@ -770380,11 +772431,11 @@
         "CFG_EOC_BTEL_SOURCE_PHONE_HDC_000_11"
       ],
       "parlibmp": {
-		"ru_RU": "Клавиша Phone"  
-	  },
+        "ru_RU": "Клавиша Phone"
+      },
       "paraide": {
-	    "ru_RU": "Определяет положение информации от кнопки в CAN шине\r\nНаличие второй функции кнопки после долгого нажатия"
-	  }
+        "ru_RU": "Определяет положение информации от кнопки в CAN шине\r\nНаличие второй функции кнопки после долгого нажатия"
+      }
     },
     "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000": {
       "parlname": "",
@@ -785946,6 +787997,144 @@
       "stadescription": null,
       "discvallib": {
         "ru_RU": "вариант 3"
+      }
+    },
+    "CFG_DST_BTEL_DATE_FORMAT_INIT_000_00": {
+      "stalname": "etat",
+      "stadescription": null,
+      "discvallib": {
+        "ar_AE": "DD/MM/YYYY",
+        "cs_CZ": "DD/MM/YYYY",
+        "da_DK": "DD/MM/YYYY",
+        "de_DE": "DD/MM/YYYY",
+        "el_GR": "DD/MM/YYYY",
+        "en_GB": "DD/MM/YYYY",
+        "es_AR": "DD/MM/YYYY",
+        "es_ES": "DD/MM/YYYY",
+        "fi_FI": "DD/MM/YYYY",
+        "fr_FR": "DD/MM/YYYY",
+        "hr_HR": "DD/MM/YYYY",
+        "hu_HU": "DD/MM/YYYY",
+        "it_IT": "DD/MM/YYYY",
+        "ja_JP": "DD/MM/YYYY",
+        "ko_KR": "DD/MM/YYYY",
+        "nl_NL": "DD/MM/YYYY",
+        "pl_PL": "DD/MM/YYYY",
+        "pt_BR": "DD/MM/YYYY",
+        "pt_PT": "DD/MM/YYYY",
+        "ro_RO": "DD/MM/YYYY",
+        "ru_RU": "DD/MM/YYYY",
+        "sl_SI": "DD/MM/YYYY",
+        "sv_SE": "DD/MM/YYYY",
+        "tr_TR": "DD/MM/YYYY",
+        "zh_CN": "DD/MM/YYYY"
+      }
+    },
+    "CFG_DST_BTEL_DATE_FORMAT_INIT_000_01": {
+      "stalname": "etat",
+      "stadescription": null,
+      "discvallib": {
+        "ar_AE": "DD.MM.YYYY",
+        "cs_CZ": "DD.MM.YYYY",
+        "da_DK": "DD.MM.YYYY",
+        "de_DE": "DD.MM.YYYY",
+        "el_GR": "DD.MM.YYYY",
+        "en_GB": "DD.MM.YYYY",
+        "es_AR": "DD.MM.YYYY",
+        "es_ES": "DD.MM.YYYY",
+        "fi_FI": "DD.MM.YYYY",
+        "fr_FR": "DD.MM.YYYY",
+        "hr_HR": "DD.MM.YYYY",
+        "hu_HU": "DD.MM.YYYY",
+        "it_IT": "DD.MM.YYYY",
+        "ja_JP": "DD.MM.YYYY",
+        "ko_KR": "DD.MM.YYYY",
+        "nl_NL": "DD.MM.YYYY",
+        "pl_PL": "DD.MM.YYYY",
+        "pt_BR": "DD.MM.YYYY",
+        "pt_PT": "DD.MM.YYYY",
+        "ro_RO": "DD.MM.YYYY",
+        "ru_RU": "DD.MM.YYYY",
+        "sl_SI": "DD.MM.YYYY",
+        "sv_SE": "DD.MM.YYYY",
+        "tr_TR": "DD.MM.YYYY",
+        "zh_CN": "DD.MM.YYYY"
+      }
+    },
+    "CFG_DST_BTEL_DATE_FORMAT_INIT_000_10": {
+      "stalname": "etat",
+      "stadescription": null,
+      "discvallib": {
+        "ar_AE": "YYYY-MM-DD",
+        "cs_CZ": "YYYY-MM-DD",
+        "da_DK": "YYYY-MM-DD",
+        "de_DE": "YYYY-MM-DD",
+        "el_GR": "YYYY-MM-DD",
+        "en_GB": "YYYY-MM-DD",
+        "es_AR": "YYYY-MM-DD",
+        "es_ES": "YYYY-MM-DD",
+        "fi_FI": "YYYY-MM-DD",
+        "fr_FR": "YYYY-MM-DD",
+        "hr_HR": "YYYY-MM-DD",
+        "hu_HU": "YYYY-MM-DD",
+        "it_IT": "YYYY-MM-DD",
+        "ja_JP": "YYYY-MM-DD",
+        "ko_KR": "YYYY-MM-DD",
+        "nl_NL": "YYYY-MM-DD",
+        "pl_PL": "YYYY-MM-DD",
+        "pt_BR": "YYYY-MM-DD",
+        "pt_PT": "YYYY-MM-DD",
+        "ro_RO": "YYYY-MM-DD",
+        "ru_RU": "YYYY-MM-DD",
+        "sl_SI": "YYYY-MM-DD",
+        "sv_SE": "YYYY-MM-DD",
+        "tr_TR": "YYYY-MM-DD",
+        "zh_CN": "YYYY-MM-DD"
+      }
+    },
+    "CFG_DST_BTEL_DATE_FORMAT_INIT_000_11": {
+      "stalname": "etat",
+      "stadescription": null,
+      "discvallib": {
+        "ar_AE": "MM/DD/YYYY",
+        "cs_CZ": "MM/DD/YYYY",
+        "da_DK": "MM/DD/YYYY",
+        "de_DE": "MM/DD/YYYY",
+        "el_GR": "MM/DD/YYYY",
+        "en_GB": "MM/DD/YYYY",
+        "es_AR": "MM/DD/YYYY",
+        "es_ES": "MM/DD/YYYY",
+        "fi_FI": "MM/DD/YYYY",
+        "fr_FR": "MM/DD/YYYY",
+        "hr_HR": "MM/DD/YYYY",
+        "hu_HU": "MM/DD/YYYY",
+        "it_IT": "MM/DD/YYYY",
+        "ja_JP": "MM/DD/YYYY",
+        "ko_KR": "MM/DD/YYYY",
+        "nl_NL": "MM/DD/YYYY",
+        "pl_PL": "MM/DD/YYYY",
+        "pt_BR": "MM/DD/YYYY",
+        "pt_PT": "MM/DD/YYYY",
+        "ro_RO": "MM/DD/YYYY",
+        "ru_RU": "MM/DD/YYYY",
+        "sl_SI": "MM/DD/YYYY",
+        "sv_SE": "MM/DD/YYYY",
+        "tr_TR": "MM/DD/YYYY",
+        "zh_CN": "MM/DD/YYYY"
+      }
+    },
+    "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_0": {
+      "stalname": null,
+      "stadescription": null,
+      "discvallib": {
+        "ru_RU": "синхронизация отсутствует"
+      }
+    },
+    "CFG_DTP_BTEL_DATE_TIME_SYNC_INIT_000_1": {
+      "stalname": null,
+      "stadescription": null,
+      "discvallib": {
+        "ru_RU": "синхронизация по GPS"
       }
     }
   }
