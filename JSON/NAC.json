@@ -763891,7 +763891,7 @@
         "pt_BR": "Define o estado de ativação da função \"Temperatura externa\" no veículo.",
         "pt_PT": "Define o estado de activação da função \"Temperatura exterior\" no veículo.",
         "ro_RO": "Defineste starea de activare a functiei „Temperatura exterioara” integrata in vehicul.",
-        "ru_RU": "Определяет состояние активности функции \"Температура наружного воздуха\".",
+        "ru_RU": "Отображение температуры в панели задач",
         "sl_SI": "Določa stanje vklopa funkcije \"Zunanja temperatura\" vozila.",
         "sv_SE": "Definierar aktiveringsstatus på funktionen \"Yttertemperatur\" i fordonet.",
         "tr_TR": "Araçta \"Dış sıcaklık\" fonksiyonunun devreye alınma durumunu belirler.",
@@ -764749,7 +764749,7 @@
         "pt_BR": "Exibição do jornal dos alertas",
         "pt_PT": "Visualização do diário dos alertas",
         "ro_RO": "Afisare jurnal de avertizari",
-        "ru_RU": "Вывод журнала срабатываний охранной сигнализации",
+        "ru_RU": "Журнал сообщений",
         "sl_SI": "Prikaz dnevnika opozoril",
         "sv_SE": "Visning av varningsloggen",
         "tr_TR": "Alarm güncesinin görüntülenmesi",
@@ -764776,7 +764776,7 @@
         "pt_BR": "Este parâmetro é telecodificado como \"Exibição desativada\" se o painel de instrumentos (CIROCCO) estiver presente, em um veículo de tipo C4 PICASSO\r\nEste parâmetro é telecodificado como \"Exibição desativada\" se o painel de instrumentos for equipado com um mostrador matricial, em um veículo de tipo 308",
         "pt_PT": "Este parâmetro está telecodificado em \"Visualização desativada\" se o quadro de bordo (CIROCCO) está presente no veículo de tipo C4 PICASSO\r\nEste parâmetro está telecodificado em \"visualização desativada\" se o quadro de bordo está equipado de um ecrã matriz no veículo de tipo 308",
         "ro_RO": "Acest parametru este telecodat la \"Afisaj dezactivat\" daca tabloul de bord (CIROCCO) este prezent, pe un vehicul de tip C4 PICASSO\r\nAcest parametru este telecodat la \"Afisaj dezactivat\" daca tabloul de bord este echipat cu un afisaj matriceal, pe un vehicul de tip 308",
-        "ru_RU": "Этот параметр следует телекодировать как \"Вывод на экран отключен\", если на автомобиле типа C4 PICASSO имеется панель приборов (CIROCCO)\r\nЭтот параметр следует телекодировать как \"Вывод на экран отключен\", если на автомобиле типа 308 имеется панель приборов с матричным дисплеем",
+        "ru_RU": "Отображает список предупреждений в меню DRIVE под пунктом CHECK",
         "sl_SI": "Ta parameter je kodiran na \"Prikaz izklopljen\", če je prisotna instrumentna plošča (CIROCCO), na vozilu tipa C4 PICASSO\r\nTa parameter je kodiran na \"Prikaz izklopljen\", če je instrumentna plošča opremljena z matričnim prikazovalnikom, na vozilu tipa 308",
         "sv_SE": "Denna parameter är ställd till \"Visning avaktiverad\" om instrumenttavlan (CIROCCO) finns i en bil av typ C4 PICASSO\r\nDenna parameter är ställd till \"Visning avaktiverad\" om instrumenttavlan har en matrisdisplay i en bil av typ 308",
         "tr_TR": "C4 PICASSO tipi bir araçta, gösterge tablosu (CIROCCO) varsa bu parametre \"Görüntü çalışmıyor\" olarak telekodlanır\r\n308 tipi bir araçta, gösterge tablosunda bir matrisli ekran varsa bu parametre \"Görüntü çalışmıyor\" olarak telekodlanır",
@@ -765886,7 +765886,7 @@
         "pt_BR": "O quadro de comando de climatização está presente se o veículo for equipado com uma caixa insuflador de ar traseiro",
         "pt_PT": "A tabela de comando de climatização está presente se o veículo estiver equipado com uma caixa pulsor de ar traseiro",
         "ro_RO": "Tabloul de comanda a climatizarii este prezent daca vehiculul este echipat cu un modul ventilator spate",
-        "ru_RU": "Панель управления кондиционера имеется, если автомобиль оснащен блоком заднего вентилятора",
+        "ru_RU": "Наличие сенсорой клавиши \"задний кондиционер\"\r\nКлавиша разрешает работу заднего кондиционера",
         "sl_SI": "Stikalna plošča klimatske naprave je prisotna, če je vozilo opremljeno z ohišjem zadnjega zračnika",
         "sv_SE": "AC-reglagepanelen finns om bilen har en fläktmodul bak",
         "tr_TR": "Araçta bir arka hava üfleyici kutusu varsa klima kumanda tablosu mevcuttur",
@@ -765984,7 +765984,7 @@
         "pt_BR": "Monozona : Para uma climatização com um motorredutor de tampa de entrada de ar e uma só zona de regulagem da temperatura \r\nBizona : Para uma climatização com 2 motorredutores de tampa de entrada de ar, um lado passageiro e um lado motorista e 2 zonas de regulagem da temperatura",
         "pt_PT": "Zona simples : Para uma climatização com um motorredutor de borboleta de entrada de ar e apenas uma zona de regulação da temperatura \r\nZona dupla : Para uma climatização com 2 motorredutores da borboleta de entrada de ar, um lado passageiro e um lado do condutor e 2 zonas de regulação da temperatura",
         "ro_RO": "O singura zona : Pentru un sistem de climatizare cu un motoreductor de clapeta de intrare a aerului si o singura zona de reglare a temperaturii \r\nCu doua zone : Pentru un sistem de climatizare cu 2 motoreductoare de clapeta de intrare a aerului, o parte pasager si o parte conducator si 2 zone de reglare a temperaturii",
-        "ru_RU": "Однозонный : Для системы кондиционирования с электроприводом заслонки подачи воздуха и однозонной регулировкой температуры \r\nДвухзонный : Для системы кондиционирования с 2 электроприводами заслонок подачи воздуха, со стороны пассажира и со стороны водителя, и 2-зонной регулировкой температуры",
+        "ru_RU": "Наличие управления регулировкой температуры с двух сторон(требуется наличие двух заслонок смешивания температуры)",
         "sl_SI": "Enostranska : Za klimatsko napravo z motoreduktorjem vstopne lopute za zrak in enim samim območjem nastavljanja temperature \r\nDvostranska : Za klimatsko napravo z 2 motoreduktorji vstopne lopute za zrak, enim na sovoznikovi strani in enim na voznikovi strani, in 2 območji nastavljanja temperature",
         "sv_SE": "Mono : För luftkonditionering med en kuggväxelmotor för luftintagsspjället och ett enda temperaturregleringsområde \r\nDubbelsidig : För luftkonditionering med 2 kuggväxelmotorer för luftintagsspjället, passagerarsidan och förarsidan samt 2 temperaturregleringsområden",
         "tr_TR": "Tek bölgeli : Bir hava girişi klapesi motorlu redüktörüne ve tek bir sıcaklık ayar bölgesine sahip olan bir klima için \r\nÇift bölgeli : 2 hava girişi klapesi motorlu redüktörüne, bir yolcu ve bir sürücü tarafına ve 2 sıcaklık ayar bölgesine sahip olan bir klima için",
@@ -766232,7 +766232,7 @@
         "pt_BR": "O parâmetro está telecodificado como \"Estado desativado\" se a climatização automática estiver ausente",
         "pt_PT": "O parâmetro está telecodificado no \"estado desativado\" se a climatização automática está ausente",
         "ro_RO": "Parametrul este telecodat la \"Stare dezactivata\" daca sistemul de climatizare automata este absent",
-        "ru_RU": "Параметр телекодируется как \"Выключенное состояние\" при отсутствии автоматического кондиционера",
+        "ru_RU": "Наличие ползунка с выбором интенсивности(soft-midle-hard)",
         "sl_SI": "Parameter je kodiran na \"Izklopljeno stanje\", če je avtomatska klima odsotna",
         "sv_SE": "Parametern är ställd till \"Avaktiverat tillstånd\" om automatisk A/C saknas",
         "tr_TR": "Araçta otomatik klima yoksa parametre \"Aktif olmayan durum\" olarak telekodlanır",
@@ -766270,7 +766270,9 @@
         "tr_TR": "Klima tipi",
         "zh_CN": "空调类型"
       },
-      "paraide": null
+      "paraide": {
+		"ru_RU": "Тип климатической установки"  
+	  }
     },
     "CFG_DBH_BTEL_ATT_DG_TYPE_DIST_000": {
       "parlname": "Type de distribution de l'air",
@@ -766327,7 +766329,7 @@
         "pt_BR": "Monozona : Para uma climatização com um motorredutor de tampa de entrada de ar e uma só zona de regulagem da temperatura \r\nBizona : Para uma climatização com 2 motorredutores de tampa de entrada de ar, um lado passageiro e um lado motorista e 2 zonas de regulagem da temperatura",
         "pt_PT": "Zona simples : Para uma climatização com um motorredutor de borboleta de entrada de ar e apenas uma zona de regulação da temperatura \r\nZona dupla : Para uma climatização com 2 motorredutores da borboleta de entrada de ar, um lado passageiro e um lado do condutor e 2 zonas de regulação da temperatura",
         "ro_RO": "O singura zona : Pentru un sistem de climatizare cu un motoreductor de clapeta de intrare a aerului si o singura zona de reglare a temperaturii \r\nCu doua zone : Pentru un sistem de climatizare cu 2 motoreductoare de clapeta de intrare a aerului, o parte pasager si o parte conducator si 2 zone de reglare a temperaturii",
-        "ru_RU": "Однозонный : Для системы кондиционирования с электроприводом заслонки подачи воздуха и однозонной регулировкой температуры \r\nДвухзонный : Для системы кондиционирования с 2 электроприводами заслонок подачи воздуха, со стороны пассажира и со стороны водителя, и 2-зонной регулировкой температуры",
+        "ru_RU": "Наличие управления распределения воздуха с двух сторон(требуется наличие двух заслонок распределения воздуха)",
         "sl_SI": "Enostranska : Za klimatsko napravo z motoreduktorjem vstopne lopute za zrak in enim samim območjem nastavljanja temperature \r\nDvostranska : Za klimatsko napravo z 2 motoreduktorji vstopne lopute za zrak, enim na sovoznikovi strani in enim na voznikovi strani, in 2 območji nastavljanja temperature",
         "sv_SE": "Mono : För luftkonditionering med en kuggväxelmotor för luftintagsspjället och ett enda temperaturregleringsområde \r\nDubbelsidig : För luftkonditionering med 2 kuggväxelmotorer för luftintagsspjället, passagerarsidan och förarsidan samt 2 temperaturregleringsområden",
         "tr_TR": "Tek bölgeli : Bir hava girişi klapesi motorlu redüktörüne ve tek bir sıcaklık ayar bölgesine sahip olan bir klima için \r\nÇift bölgeli : 2 hava girişi klapesi motorlu redüktörüne, bir yolcu ve bir sürücü tarafına ve 2 sıcaklık ayar bölgesine sahip olan bir klima için",
@@ -767213,7 +767215,9 @@
       "pardescription": "",
       "states": [],
       "parlibmp": null,
-      "paraide": null
+      "paraide": {
+		"ru_RU": "? не используется или обратная совместимость"  
+	  }
     },
     "CFG_DN5_BTEL_DG_DGSI_PUSH_POS_001": {
       "parlname": "INDICATE THE POSITION IN THE PANEL",
@@ -767256,7 +767260,9 @@
         "tr_TR": "Üre solüsyonu seviyesi",
         "zh_CN": "尿素溶液液位"
       },
-      "paraide": null
+      "paraide": {
+		"ru_RU": "? не используется или обратная совместимость"  
+	  }
     },
     "CFG_DNF_BTEL_DAT_DG_TYRES_PRES_000": {
       "parlname": "pression des pneumatiques",
@@ -767569,8 +767575,12 @@
         "CFG_DNY_BTEL_OPTION_SD_MEDIA_EVO_000_0",
         "CFG_DNY_BTEL_OPTION_SD_MEDIA_EVO_000_1"
       ],
-      "parlibmp": null,
-      "paraide": null
+      "parlibmp": {
+		"ru_RU": "Модель отключения ГУ"  
+	  },
+      "paraide": {
+		"ru_RU": "Выключение ГУ после выключения зажигания или после открывания водительской двери"  
+	  }
     },
     "CFG_DNZ_BTEL_DAT_DG_HY_BAT_LEVEL9_000": {
       "parlname": "seuil du bargraphe de la batterie niveau 9",
@@ -767884,7 +767894,9 @@
         "tr_TR": "Blackpanel tuşu",
         "zh_CN": "黑屏键(BLACK PANEL)"
       },
-      "paraide": null
+      "paraide": {
+		"ru_RU": "? не используется или обратная совместимость"  
+	  }
     },
     "CFG_DR8_BTEL_CPUSH_COLORCLUST_000": {
       "parlname": "CPUSH COLORCLUST",
@@ -767894,7 +767906,9 @@
         "CFG_DR8_BTEL_CPUSH_COLORCLUST_000_1"
       ],
       "parlibmp": null,
-      "paraide": null
+      "paraide": {
+		"ru_RU": "? не используется или обратная совместимость"  
+	  }
     },
     "CFG_DR9_BTEL_CPUSH_CHECK_000": {
       "parlname": "Touche 'CHECK'",
@@ -767930,7 +767944,9 @@
         "tr_TR": "\"check\" tuşu",
         "zh_CN": "“检查”按钮"
       },
-      "paraide": null
+      "paraide": {
+		"ru_RU": "? не используется или обратная совместимость"  
+	  }
     },
     "CFG_DRA_BTEL_CPUSH_CUSTOM_000": {
       "parlname": "Aide au stationnement",
@@ -767940,7 +767956,9 @@
         "CFG_DRA_BTEL_CPUSH_CUSTOM_000_1"
       ],
       "parlibmp": null,
-      "paraide": null
+      "paraide": {
+		"ru_RU": "? не используется или обратная совместимость"  
+	  }
     },
     "CFG_DRB_BTEL_CPUSH_DOMELIGHT_000": {
       "parlname": "CPUSH DOMELIGHT",
@@ -767950,7 +767968,9 @@
         "CFG_DRB_BTEL_CPUSH_DOMELIGHT_000_1"
       ],
       "parlibmp": null,
-      "paraide": null
+      "paraide": {
+		"ru_RU": "? не используется или обратная совместимость"  
+	  }
     },
     "CFG_DRD_BTEL_CUSTOM_PUSH_000": {
       "parlname": "Aide au stationnement",
@@ -767960,14 +767980,20 @@
         "CFG_DRD_BTEL_CUSTOM_PUSH_000_1"
       ],
       "parlibmp": null,
-      "paraide": null
+      "paraide": {
+		"ru_RU": "? не используется или обратная совместимость"  
+	  }
     },
     "CFG_DRE_BTEL_THEME_DEFAULT_000": {
       "parlname": "Thème par défaut",
       "pardescription": "",
       "states": [],
-      "parlibmp": null,
-      "paraide": null
+      "parlibmp": {
+		"ru_RU": "Тема ГУ"  
+	  },
+      "paraide": {
+		"ru_RU": "Эта опция выбирает раскладку тем и силуэтов по марке производителя"  
+	  }
     },
     "CFG_DRG_BTEL_INIT_DSGI_001": {
       "parlname": "Détection de sous-gonflage",
@@ -769251,7 +769277,9 @@
         "tr_TR": "Kısmi kilometre sayısının görüntülenmesi",
         "zh_CN": "显示单次里程"
       },
-      "paraide": null
+      "paraide": {
+		"ru_RU": "? не используется или обратная совместимость"  
+	  }
     },
     "CFG_DUH_BTEL_OBC_000": {
       "parlname": "affichage de l'ordinateur de bord",
@@ -769287,7 +769315,9 @@
         "tr_TR": "Yol bilgisayarı ekranı",
         "zh_CN": "旅程计算机显示器"
       },
-      "paraide": null
+      "paraide": {
+		"ru_RU": "Активирует вкладку бортового компьютера\r\nПоявляется пункт в меню Drive"  
+	  }
     },
     "CFG_DUI_BTEL_OBC_STT_000": {
       "parlname": "Fonction Stop and Start",
@@ -769323,7 +769353,9 @@
         "tr_TR": "Stop and start fonksiyonu",
         "zh_CN": "“停止-起动(Stop and Start)功能"
       },
-      "paraide": null
+      "paraide": {
+		"ru_RU": "в бортовом компьютере строка: \"общее время в режиме стоп\""  
+	  }
     },
     "CFG_DUJ_BTEL_OBC_POPUPPAGE_000": {
       "parlname": "Affichage en roulage des messages d'information provenant de l'ordinateur de bord à l'écran tactile",
@@ -769359,7 +769391,9 @@
         "tr_TR": "Sürüş sırasında, yol bilgisayarından gelen bilgi mesajlarının çok işlevli dokunmatik ekranda görüntülenmesi",
         "zh_CN": "行驶时，多功能触摸屏上显示来自行车电脑的信息"
       },
-      "paraide": null
+      "paraide": {
+		"ru_RU": "При нажатии на подрулевую кнопку будет вслывающее окно с бортовым компьютером из любого эркана. На экране бортового компьютера будет просто перелистовывание вкладок"  
+	  }
     },
     "CFG_DUK_BTEL_OBC_PUSH_000": {
       "parlname": "Bouton de commande de l'ordinateur de bord",
@@ -769840,7 +769874,9 @@
         "tr_TR": "Klima fonksiyonu",
         "zh_CN": "空调功能"
       },
-      "paraide": null
+      "paraide": {
+		"ru_RU": "Активирует модуль управления кондиционером"  
+	  }
     },
     "CFG_DVZ_BTEL_SPEED_SVR_002": {
       "parlname": "Seuil de vitesse pour la reconnaissance vocale",
@@ -772141,7 +772177,9 @@
       "pardescription": "",
       "states": [],
       "parlibmp": null,
-      "paraide": null
+      "paraide": {
+		"ru_RU": "наличие и расположение клавиши \"MONO\""  
+	  }
     },
     "CFG_ED9_BTEL_BCALL_VHL_SPEAKER_000": {
       "parlname": "Utilisation des haut-parleurs pour l'appel d'assistance",
@@ -772290,8 +772328,12 @@
         "CFG_EIO_BTEL_PERSO_CFG_000_0",
         "CFG_EIO_BTEL_PERSO_CFG_000_1"
       ],
-      "parlibmp": null,
-      "paraide": null
+      "parlibmp": {
+		"ru_RU": "Меню конфигурирования приборной панели"  
+	  },
+      "paraide": {
+		"ru_RU": "Меню конфигурирования приборной панели.\r\nПункт во вкадке настройки"  
+	  }
     },
     "CFG_ELH_BTEL_OPTION_STANDBYMODE_000": {
       "parlname": "",
@@ -772766,8 +772808,8 @@
       "paraide": null
     },
     "CFG_FI8_BTEL_CARLINE_001": {
-      "parlname": "",
-      "pardescription": "",
+      "parlname": "INDICATES THE KIND OF CARLINE",
+      "pardescription": "the silhouette of a car",
       "states": [
         "CFG_FI8_BTEL_CARLINE_001_00000000",
         "CFG_FI8_BTEL_CARLINE_001_00000001",
@@ -773026,8 +773068,12 @@
         "CFG_FI8_BTEL_CARLINE_001_11111110",
         "CFG_FI8_BTEL_CARLINE_001_11111111"
       ],
-      "parlibmp": null,
-      "paraide": null
+      "parlibmp": {
+		"ru_RU": "Силуэт автомобиля"  
+	  },
+      "paraide": {
+		"ru_RU": "номер привязан к конкретному набору в прошивке\r\nвыбор зависит от выбранной марки производителя"  
+	  }
     },
     "CFG_GNZ_BTEL_NOM_ITEM9_FAMILLE_4_001": {
       "parlname": "Reserve",
