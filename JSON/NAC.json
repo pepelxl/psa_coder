@@ -9138,7 +9138,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -9146,7 +9155,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -9328,7 +9346,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -9336,7 +9363,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -9344,7 +9380,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -18474,7 +18519,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -18482,7 +18536,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -18664,7 +18727,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -18672,7 +18744,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -18680,7 +18761,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -37884,7 +37974,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -37892,7 +37991,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -38074,7 +38182,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -38082,7 +38199,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -38090,7 +38216,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -50899,7 +51034,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -50907,7 +51051,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -51089,7 +51242,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -51097,7 +51259,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -51105,7 +51276,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -51323,7 +51503,16 @@
           "addbitmask": 1,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         }
       },
       "F190": {
@@ -158246,7 +158435,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -158254,7 +158452,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -158436,7 +158643,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -158444,7 +158660,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -158452,7 +158677,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -167609,7 +167843,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -167617,7 +167860,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -167799,7 +168051,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -167807,7 +168068,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -167815,7 +168085,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -178120,7 +178399,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -178128,7 +178416,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -178310,7 +178607,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -178318,7 +178624,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -178326,7 +178641,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -191135,7 +191459,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -191143,7 +191476,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -191325,7 +191667,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -191333,7 +191684,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -191341,7 +191701,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -191559,7 +191928,16 @@
           "addbitmask": 1,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         }
       },
       "F190": {
@@ -201648,7 +202026,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -201656,7 +202043,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -201838,7 +202234,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -201846,7 +202251,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -201854,7 +202268,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -211079,7 +211502,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -211087,7 +211519,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -211269,7 +211710,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -211277,7 +211727,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -211285,7 +211744,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -220442,7 +220910,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -220450,7 +220927,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -220632,7 +221118,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -220640,7 +221135,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -220648,7 +221152,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -230953,7 +231466,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -230961,7 +231483,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -231143,7 +231674,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -231151,7 +231691,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -231159,7 +231708,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -240384,7 +240942,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -240392,7 +240959,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -240574,7 +241150,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -240582,7 +241167,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -240590,7 +241184,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -250792,7 +251395,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -250800,7 +251412,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -250982,7 +251603,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -250990,7 +251620,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -250998,7 +251637,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -260250,7 +260898,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -260258,7 +260915,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -260440,7 +261106,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -260448,7 +261123,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -260456,7 +261140,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -286577,7 +287270,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -286585,7 +287287,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -286767,7 +287478,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -286775,7 +287495,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -286783,7 +287512,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -295940,7 +296678,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -295948,7 +296695,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -296130,7 +296886,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -296138,7 +296903,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -296146,7 +296920,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -306451,7 +307234,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -306459,7 +307251,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -306641,7 +307442,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -306649,7 +307459,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -306657,7 +307476,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -319466,7 +320294,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -319474,7 +320311,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -319656,7 +320502,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -319664,7 +320519,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -319672,7 +320536,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -319890,7 +320763,16 @@
           "addbitmask": 1,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         }
       },
       "F190": {
@@ -328907,7 +329789,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -328915,7 +329806,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -329097,7 +329997,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -329105,7 +330014,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -329113,7 +330031,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -339315,7 +340242,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -339323,7 +340259,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -339505,7 +340450,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -339513,7 +340467,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -339521,7 +340484,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -352330,7 +353302,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -352338,7 +353319,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -352520,7 +353510,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -352528,7 +353527,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -352536,7 +353544,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -352754,7 +353771,16 @@
           "addbitmask": 1,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         }
       },
       "F190": {
@@ -379802,7 +380828,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -379810,7 +380845,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -379992,7 +381036,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -380000,7 +381053,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -380008,7 +381070,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -390313,7 +391384,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -390321,7 +391401,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -390503,7 +391592,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -390511,7 +391609,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -390519,7 +391626,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -403328,7 +404444,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -403336,7 +404461,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -403518,7 +404652,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -403526,7 +404669,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -403534,7 +404686,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -403752,7 +404913,16 @@
           "addbitmask": 1,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         }
       },
       "F190": {
@@ -412769,7 +413939,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -412777,7 +413956,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -412959,7 +414147,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -412967,7 +414164,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -412975,7 +414181,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -422132,7 +423347,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -422140,7 +423364,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -422322,7 +423555,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -422330,7 +423572,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -422338,7 +423589,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -432643,7 +433903,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -432651,7 +433920,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -432833,7 +434111,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -432841,7 +434128,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -432849,7 +434145,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -445658,7 +446963,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -445666,7 +446980,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -445848,7 +447171,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -445856,7 +447188,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -445864,7 +447205,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -446082,7 +447432,16 @@
           "addbitmask": 1,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         }
       },
       "F190": {
@@ -482132,7 +483491,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -482140,7 +483508,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -482322,7 +483699,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -482330,7 +483716,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -482338,7 +483733,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -491571,7 +492975,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -491579,7 +492992,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -491761,7 +493183,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -491769,7 +493200,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -491777,7 +493217,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -501979,7 +503428,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -501987,7 +503445,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -502169,7 +503636,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -502177,7 +503653,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -502185,7 +503670,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -514994,7 +516488,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -515002,7 +516505,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -515184,7 +516696,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -515192,7 +516713,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -515200,7 +516730,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -515418,7 +516957,16 @@
           "addbitmask": 1,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         }
       },
       "F190": {
@@ -524462,7 +526010,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -524470,7 +526027,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -524652,7 +526218,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -524660,7 +526235,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -524668,7 +526252,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -533901,7 +535494,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -533909,7 +535511,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -534091,7 +535702,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -534099,7 +535719,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -534107,7 +535736,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -543264,7 +544902,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -543272,7 +544919,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -543454,7 +545110,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -543462,7 +545127,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -543470,7 +545144,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -553775,7 +555458,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -553783,7 +555475,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -553965,7 +555666,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -553973,7 +555683,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -553981,7 +555700,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -566790,7 +568518,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -566798,7 +568535,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -566980,7 +568726,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -566988,7 +568743,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -566996,7 +568760,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -567214,7 +568987,16 @@
           "addbitmask": 1,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         }
       },
       "F190": {
@@ -594235,7 +596017,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -594243,7 +596034,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -594425,7 +596225,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -594433,7 +596242,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -594441,7 +596259,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -630577,7 +632404,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -630585,7 +632421,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -630767,7 +632612,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -630775,7 +632629,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -630783,7 +632646,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -648915,7 +650787,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -648923,7 +650804,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -649105,7 +650995,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -649113,7 +651012,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -649121,7 +651029,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -658251,7 +660168,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -658259,7 +660185,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -658441,7 +660376,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -658449,7 +660393,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -658457,7 +660410,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -667614,7 +669576,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -667622,7 +669593,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -667804,7 +669784,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -667812,7 +669801,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -667820,7 +669818,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -678125,7 +680132,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -678133,7 +680149,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -678315,7 +680340,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -678323,7 +680357,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -678331,7 +680374,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -696558,7 +698610,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -696566,7 +698627,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -696748,7 +698818,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -696756,7 +698835,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -696764,7 +698852,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -705921,7 +708018,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -705929,7 +708035,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -706111,7 +708226,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -706119,7 +708243,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -706127,7 +708260,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -716432,7 +718574,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -716440,7 +718591,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -716622,7 +718782,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -716630,7 +718799,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -716638,7 +718816,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -752869,7 +755056,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -752877,7 +755073,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -753059,7 +755264,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -753067,7 +755281,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -753075,7 +755298,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -763277,7 +765509,16 @@
           "addbitmask": 64,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELI_BTEL_PRIVACY_MODE_000": {
           "absoluteoffset": 4,
@@ -763285,7 +765526,16 @@
           "addbitmask": 32,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_ELJ_BTEL_ODS_GEN_000": {
           "absoluteoffset": 4,
@@ -763467,7 +765717,16 @@
           "addbitmask": 2,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -763475,7 +765734,16 @@
           "addbitmask": 4,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
           "absoluteoffset": 9,
@@ -763483,7 +765751,16 @@
           "addbitmask": 8,
           "dattyname": "BINARY",
           "addtyname": "BITS",
-          "states": null
+          "states": {
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "0"
+            },
+            "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+              "statyname": "BINARYFIXED",
+              "stavalue": "1"
+            }
+          }
         },
         "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
           "absoluteoffset": 9,
@@ -766271,8 +768548,8 @@
         "zh_CN": "空调类型"
       },
       "paraide": {
-		"ru_RU": "Тип климатической установки"  
-	  }
+        "ru_RU": "Тип климатической установки"
+      }
     },
     "CFG_DBH_BTEL_ATT_DG_TYPE_DIST_000": {
       "parlname": "Type de distribution de l'air",
@@ -767216,8 +769493,8 @@
       "states": [],
       "parlibmp": null,
       "paraide": {
-		"ru_RU": "? не используется или обратная совместимость"  
-	  }
+        "ru_RU": "? не используется или обратная совместимость"
+      }
     },
     "CFG_DN5_BTEL_DG_DGSI_PUSH_POS_001": {
       "parlname": "INDICATE THE POSITION IN THE PANEL",
@@ -767261,8 +769538,8 @@
         "zh_CN": "尿素溶液液位"
       },
       "paraide": {
-		"ru_RU": "? не используется или обратная совместимость"  
-	  }
+        "ru_RU": "? не используется или обратная совместимость"
+      }
     },
     "CFG_DNF_BTEL_DAT_DG_TYRES_PRES_000": {
       "parlname": "pression des pneumatiques",
@@ -767576,11 +769853,11 @@
         "CFG_DNY_BTEL_OPTION_SD_MEDIA_EVO_000_1"
       ],
       "parlibmp": {
-		"ru_RU": "Модель отключения ГУ"  
-	  },
+        "ru_RU": "Модель отключения ГУ"
+      },
       "paraide": {
-		"ru_RU": "Выключение ГУ после выключения зажигания или после открывания водительской двери"  
-	  }
+        "ru_RU": "Выключение ГУ после выключения зажигания или после открывания водительской двери"
+      }
     },
     "CFG_DNZ_BTEL_DAT_DG_HY_BAT_LEVEL9_000": {
       "parlname": "seuil du bargraphe de la batterie niveau 9",
@@ -767895,8 +770172,8 @@
         "zh_CN": "黑屏键(BLACK PANEL)"
       },
       "paraide": {
-		"ru_RU": "? не используется или обратная совместимость"  
-	  }
+        "ru_RU": "? не используется или обратная совместимость"
+      }
     },
     "CFG_DR8_BTEL_CPUSH_COLORCLUST_000": {
       "parlname": "CPUSH COLORCLUST",
@@ -767907,8 +770184,8 @@
       ],
       "parlibmp": null,
       "paraide": {
-		"ru_RU": "? не используется или обратная совместимость"  
-	  }
+        "ru_RU": "? не используется или обратная совместимость"
+      }
     },
     "CFG_DR9_BTEL_CPUSH_CHECK_000": {
       "parlname": "Touche 'CHECK'",
@@ -767945,8 +770222,8 @@
         "zh_CN": "“检查”按钮"
       },
       "paraide": {
-		"ru_RU": "? не используется или обратная совместимость"  
-	  }
+        "ru_RU": "? не используется или обратная совместимость"
+      }
     },
     "CFG_DRA_BTEL_CPUSH_CUSTOM_000": {
       "parlname": "Aide au stationnement",
@@ -767957,8 +770234,8 @@
       ],
       "parlibmp": null,
       "paraide": {
-		"ru_RU": "? не используется или обратная совместимость"  
-	  }
+        "ru_RU": "? не используется или обратная совместимость"
+      }
     },
     "CFG_DRB_BTEL_CPUSH_DOMELIGHT_000": {
       "parlname": "CPUSH DOMELIGHT",
@@ -767969,8 +770246,8 @@
       ],
       "parlibmp": null,
       "paraide": {
-		"ru_RU": "? не используется или обратная совместимость"  
-	  }
+        "ru_RU": "? не используется или обратная совместимость"
+      }
     },
     "CFG_DRD_BTEL_CUSTOM_PUSH_000": {
       "parlname": "Aide au stationnement",
@@ -767981,19 +770258,19 @@
       ],
       "parlibmp": null,
       "paraide": {
-		"ru_RU": "? не используется или обратная совместимость"  
-	  }
+        "ru_RU": "? не используется или обратная совместимость"
+      }
     },
     "CFG_DRE_BTEL_THEME_DEFAULT_000": {
       "parlname": "Thème par défaut",
       "pardescription": "",
       "states": [],
       "parlibmp": {
-		"ru_RU": "Тема ГУ"  
-	  },
+        "ru_RU": "Тема ГУ"
+      },
       "paraide": {
-		"ru_RU": "Эта опция выбирает раскладку тем и силуэтов по марке производителя"  
-	  }
+        "ru_RU": "Эта опция выбирает раскладку тем и силуэтов по марке производителя"
+      }
     },
     "CFG_DRG_BTEL_INIT_DSGI_001": {
       "parlname": "Détection de sous-gonflage",
@@ -769278,8 +771555,8 @@
         "zh_CN": "显示单次里程"
       },
       "paraide": {
-		"ru_RU": "? не используется или обратная совместимость"  
-	  }
+        "ru_RU": "? не используется или обратная совместимость"
+      }
     },
     "CFG_DUH_BTEL_OBC_000": {
       "parlname": "affichage de l'ordinateur de bord",
@@ -769316,8 +771593,8 @@
         "zh_CN": "旅程计算机显示器"
       },
       "paraide": {
-		"ru_RU": "Активирует вкладку бортового компьютера\r\nПоявляется пункт в меню Drive"  
-	  }
+        "ru_RU": "Активирует вкладку бортового компьютера\r\nПоявляется пункт в меню Drive"
+      }
     },
     "CFG_DUI_BTEL_OBC_STT_000": {
       "parlname": "Fonction Stop and Start",
@@ -769354,8 +771631,8 @@
         "zh_CN": "“停止-起动(Stop and Start)功能"
       },
       "paraide": {
-		"ru_RU": "в бортовом компьютере строка: \"общее время в режиме стоп\""  
-	  }
+        "ru_RU": "в бортовом компьютере строка: \"общее время в режиме стоп\""
+      }
     },
     "CFG_DUJ_BTEL_OBC_POPUPPAGE_000": {
       "parlname": "Affichage en roulage des messages d'information provenant de l'ordinateur de bord à l'écran tactile",
@@ -769392,8 +771669,8 @@
         "zh_CN": "行驶时，多功能触摸屏上显示来自行车电脑的信息"
       },
       "paraide": {
-		"ru_RU": "При нажатии на подрулевую кнопку будет вслывающее окно с бортовым компьютером из любого эркана. На экране бортового компьютера будет просто перелистовывание вкладок"  
-	  }
+        "ru_RU": "При нажатии на подрулевую кнопку будет вслывающее окно с бортовым компьютером из любого эркана. На экране бортового компьютера будет просто перелистовывание вкладок"
+      }
     },
     "CFG_DUK_BTEL_OBC_PUSH_000": {
       "parlname": "Bouton de commande de l'ordinateur de bord",
@@ -769875,8 +772152,8 @@
         "zh_CN": "空调功能"
       },
       "paraide": {
-		"ru_RU": "Активирует модуль управления кондиционером"  
-	  }
+        "ru_RU": "Активирует модуль управления кондиционером"
+      }
     },
     "CFG_DVZ_BTEL_SPEED_SVR_002": {
       "parlname": "Seuil de vitesse pour la reconnaissance vocale",
@@ -772178,8 +774455,8 @@
       "states": [],
       "parlibmp": null,
       "paraide": {
-		"ru_RU": "наличие и расположение клавиши \"MONO\""  
-	  }
+        "ru_RU": "наличие и расположение клавиши \"MONO\""
+      }
     },
     "CFG_ED9_BTEL_BCALL_VHL_SPEAKER_000": {
       "parlname": "Utilisation des haut-parleurs pour l'appel d'assistance",
@@ -772329,25 +774606,35 @@
         "CFG_EIO_BTEL_PERSO_CFG_000_1"
       ],
       "parlibmp": {
-		"ru_RU": "Меню конфигурирования приборной панели"  
-	  },
+        "ru_RU": "Меню конфигурирования приборной панели"
+      },
       "paraide": {
-		"ru_RU": "Меню конфигурирования приборной панели.\r\nПункт во вкадке настройки"  
-	  }
+        "ru_RU": "Меню конфигурирования приборной панели.\r\nПункт во вкадке настройки"
+      }
     },
     "CFG_ELH_BTEL_OPTION_STANDBYMODE_000": {
       "parlname": "",
       "pardescription": "",
-      "states": [],
+      "states": [
+        "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0",
+        "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1"
+      ],
       "parlibmp": null,
-      "paraide": null
+      "paraide": {
+        "ru_RU": "При нажатии клавиши выключения ГУ, дисплей показывает заставку с часами"
+      }
     },
     "CFG_ELI_BTEL_PRIVACY_MODE_000": {
-      "parlname": "",
+      "parlname": "menu privacy mode",
       "pardescription": "",
-      "states": [],
+      "states": [
+        "CFG_ELI_BTEL_PRIVACY_MODE_000_0",
+        "CFG_ELI_BTEL_PRIVACY_MODE_000_1"
+      ],
       "parlibmp": null,
-      "paraide": null
+      "paraide": {
+        "ru_RU": "Активирует наличие вкладки \"режим приватности\"\r\nСлужит для управления разрешением передачи данных внешним устройствам."
+      }
     },
     "CFG_ELJ_BTEL_ODS_GEN_000": {
       "parlname": "TYPE OF OBSTACL",
@@ -772482,23 +774769,38 @@
     "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000": {
       "parlname": "",
       "pardescription": "",
-      "states": [],
+      "states": [
+        "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0",
+        "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1"
+      ],
       "parlibmp": null,
-      "paraide": null
+      "paraide": {
+		"ru_RU": "Определяет поведение ГУ в случае события запроса данных"  
+	  }
     },
     "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000": {
       "parlname": "",
       "pardescription": "",
-      "states": [],
+      "states": [
+        "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0",
+        "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1"
+      ],
       "parlibmp": null,
-      "paraide": null
+      "paraide": {
+		"ru_RU": "Определяет поведение ГУ в случае события запроса данных"  
+	  }
     },
     "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000": {
       "parlname": "",
       "pardescription": "",
-      "states": [],
+      "states": [
+        "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0",
+        "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1"
+      ],
       "parlibmp": null,
-      "paraide": null
+      "paraide": {
+		"ru_RU": "Определяет поведение ГУ в случае события запроса данных"  
+	  }
     },
     "CFG_EOG_BTEL_DYNAMIC_NORMAL_000": {
       "parlname": "",
@@ -773069,11 +775371,11 @@
         "CFG_FI8_BTEL_CARLINE_001_11111111"
       ],
       "parlibmp": {
-		"ru_RU": "Силуэт автомобиля"  
-	  },
+        "ru_RU": "Силуэт автомобиля"
+      },
       "paraide": {
-		"ru_RU": "номер привязан к конкретному набору в прошивке\r\nвыбор зависит от выбранной марки производителя"  
-	  }
+        "ru_RU": "номер привязан к конкретному набору в прошивке\r\nвыбор зависит от выбранной марки производителя"
+      }
     },
     "CFG_GNZ_BTEL_NOM_ITEM9_FAMILLE_4_001": {
       "parlname": "Reserve",
@@ -774956,11 +777258,16 @@
       "paraide": null
     },
     "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000": {
-      "parlname": "format de la date",
+      "parlname": "",
       "pardescription": "",
-      "states": [],
+      "states": [
+        "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_0",
+        "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_1"
+      ],
       "parlibmp": null,
-      "paraide": null
+      "paraide": {
+        "ru_RU": "Изменяет пункт \"Помошь при парковке off\\on\" в меню DRIVE на пункт вызова экрана \"Помошь при парковке\""
+      }
     },
     "LIBRE_2100_OCT4_7": {
       "parlname": "position vide octet 4",
@@ -788181,6 +790488,90 @@
       "stadescription": null,
       "discvallib": {
         "ru_RU": "синхронизация по GPS"
+      }
+    },
+    "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_0": {
+      "stalname": null,
+      "stadescription": null,
+      "discvallib": {
+        "ru_RU": "функция отсутствует"
+      }
+    },
+    "CFG_GQ6_BTEL_DAT_DG_ADAS_GSR_V2_000_1": {
+      "stalname": null,
+      "stadescription": null,
+      "discvallib": {
+        "ru_RU": "функция присутствует"
+      }
+    },
+    "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_0": {
+      "stalname": null,
+      "stadescription": null,
+      "discvallib": {
+        "ru_RU": "функция отсутствует"
+      }
+    },
+    "CFG_ELH_BTEL_OPTION_STANDBYMODE_000_1": {
+      "stalname": null,
+      "stadescription": null,
+      "discvallib": {
+        "ru_RU": "функция присутствует"
+      }
+    },
+    "CFG_ELI_BTEL_PRIVACY_MODE_000_0": {
+      "stalname": null,
+      "stadescription": null,
+      "discvallib": {
+        "ru_RU": "функция отсутствует"
+      }
+    },
+    "CFG_ELI_BTEL_PRIVACY_MODE_000_1": {
+      "stalname": null,
+      "stadescription": null,
+      "discvallib": {
+        "ru_RU": "функция присутствует"
+      }
+    },
+    "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_0": {
+      "stalname": null,
+      "stadescription": null,
+      "discvallib": {
+        "ru_RU": "функция отсутствует"
+      }
+    },
+    "CFG_EOF_BTEL_AAP_PRIVACY_ACTIVATION_000_1": {
+      "stalname": null,
+      "stadescription": null,
+      "discvallib": {
+        "ru_RU": "функция присутствует"
+      }
+    },
+    "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_0": {
+      "stalname": null,
+      "stadescription": null,
+      "discvallib": {
+        "ru_RU": "функция отсутствует"
+      }
+    },
+    "CFG_EOE_BTEL_DIPO_PRIVACY_ACTIVATION_000_1": {
+      "stalname": null,
+      "stadescription": null,
+      "discvallib": {
+        "ru_RU": "функция присутствует"
+      }
+    },
+    "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_0": {
+      "stalname": null,
+      "stadescription": null,
+      "discvallib": {
+        "ru_RU": "функция отсутствует"
+      }
+    },
+    "CFG_EOD_BTEL_ML_PRIVACY_ACTIVATION_000_1": {
+      "stalname": null,
+      "stadescription": null,
+      "discvallib": {
+        "ru_RU": "функция присутствует"
       }
     }
   }
